@@ -16,7 +16,7 @@ This case note analyses the competition between Zepto and Blinkit using Game The
 
 ## Assignment
 
-Subject: Business Strategy  
+Subject: IAI  
 
 Topic: How can a business use Game Theory?  
 
